@@ -4,7 +4,7 @@ Made for the TI-84 Plus CE with OS 5.2+
 
 
 ### Instructions:
-1. Send all files to your calculator. 
+1. Send all .8xp files to your calculator. 
 2. Run prgmBASELIVE. 
 3. Use the following keymap.
 
@@ -28,4 +28,4 @@ Post an issue on Github or create a post on the development topic:
 https://www.cemetech.net/forum/viewtopic.php?p=312033
 
 ### Thanks:
-Thank you to mr womp womp for fixing bugs and significantly reducing the file sizes!
+Thank you to mr womp womp for fixing bugs, optimizing, and significantly reducing the file sizes!
